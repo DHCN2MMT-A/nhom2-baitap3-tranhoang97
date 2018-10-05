@@ -1,0 +1,106 @@
+body{
+    background: aqua;
+}
+nav{
+    
+    float: right;
+}
+nav  ul li{
+	display: inline-block;
+	margin-right: auto;
+}
+nav ul li a{
+	
+    font-weight: bold;
+
+}
+h1 {
+	color: blue;
+    padding-top: 100px;
+    text-align: center;
+}
+h2{
+    color: blue;
+	text-align: center; 
+    padding-top: 50px;
+    font-size: 200%;
+}
+img{
+    display: block;
+    margin: auto;
+    width: 200px;
+    height: 300px;
+    border-radius: 170px / 250px;
+}
+p{
+    text-align: left;
+    display: block;
+    position: relative;
+    left: 2%; 
+    top: 30%;
+    margin: auto;
+    padding: auto;
+    width: 600px;
+    font-weight: bold;
+    font-size: 90%;
+    
+}
+.centermain{
+    font-weight: bold;
+    font-size: 110%;
+}
+.bright{
+    color:red;
+}
+a.spl-linka{
+    text-decoration: none;
+    color: white;
+    background-color:gray;
+}
+.spl-linka{
+    
+    height: auto;
+    padding: 5px;
+}
+a.spl-linkb{
+    text-decoration: none;
+    color: white;
+    background-color: rgb(240, 95, 11);
+    padding: 5px;
+}
+
+.interesting h3{
+      
+    color: blue;
+    text-decoration:underline;
+    padding-top: 10px;
+   padding-left: 200px;
+}
+.interesting{
+    margin: auto;
+    padding: auto;
+    display: block;
+    position: relative;
+    left: 350px;
+    
+}
+iframe{
+    width: 600px;
+    padding-left: 130px;
+}
+
+ol{
+    font: 100 20px/0.8 'Great Vibes', Helvetica, sans-serif;
+  color: blue;
+  text-shadow: 4px 4px 3px rgba(0,0,0,0.1);
+  font-weight: bold;
+  padding-left: 140px;
+  }
+.Interesting Facts{
+    font-weight: bold;
+    font-size: 150%;
+    padding-bottom: 40px;
+}
+  
+
+
